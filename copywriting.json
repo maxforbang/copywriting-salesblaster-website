@@ -1,0 +1,456 @@
+{
+  "companyName": "SalesBlaster AI",
+  "logoUrl": "/logo.png",
+  "openGraphImage": "/SalesBlaster-Banner.png",
+  "seoDescription": "SalesBlaster AI is an all in on marketing automation platform that uses AI agents to call, text, and nurture leads, handle inbound calls, and book sales calls directly within your CRM.",
+  "hero": {
+    "mainHeading": "AI Voice Sales Development Reps",
+    "subheading": {
+      "main": "Automated SMS outbound campaigns, 24/7 lead nurturing, and database reactivation",
+      "emphasis": "As a done-for-you service."
+    },
+    "stats": {
+      "statsText": "Trusted with over",
+      "statsCount": "1,274,927+",
+      "statsUnit": "calls"
+    },
+    "cta": {
+      "buttonText": "Demo",
+      "buttonUrl": "https://cal.com/salesblaster/demo"
+    },
+    "video": {
+      "previewImage": "/dashboard.png",
+      "link": "/voice-ai-demo.mp4"
+    }
+  },
+  "features": {
+    "header": {
+      "title": "Automate Your Sales Channels",
+      "subtitle": "We set up an entire AI marketing automation system for your business. Then it's yours, forever."
+    },
+    "mainFeatures": [
+      {
+        "id": "booking-efficiency",
+        "title": "80% Less Time Booking Sales Calls",
+        "description": "AI Agents call, text, and nurture hot leads, handle inbound calls, and book sales calls - directly within your CRM.",
+        "stat": {
+          "value": "12,293",
+          "prefix": "+",
+          "label": "calls"
+        }
+      },
+      {
+        "id": "deal-closing",
+        "title": "4x More Deals Closed",
+        "description": "Do 10x the volume of your competitors, combined."
+      },
+      {
+        "id": "personalization",
+        "title": "GPT-Personalized Calls",
+        "description": "Agents remember each prospect's personal details and past interactions."
+      }
+    ],
+    "leadSources": {
+      "title": "Leads From Any Source",
+      "description": "Drip in your leads one at a time, or blast them all at once.",
+      "sources": [
+        "CSV Uploads",
+        "Lead Forms",
+        "Database Reactivation"
+      ],
+      "cursorLabels": [
+        "Team Member",
+        "Admin"
+      ]
+    },
+    "analytics": {
+      "title": "Advanced Analytics",
+      "description": "Monitor campaigns in real-time with our custom client portal.",
+      "metrics": [
+        {
+          "id": "split-test",
+          "icon": "avatar",
+          "title": "A/B Split Test",
+          "subtitle": "Lead Magnet",
+          "stat": {
+            "prefix": "+",
+            "value": "32",
+            "suffix": "%",
+            "label": "Conversion"
+          }
+        },
+        {
+          "id": "kpi",
+          "icon": "avatar",
+          "title": "KPI Tracking",
+          "subtitle": "Call to Action",
+          "stat": {
+            "prefix": "+",
+            "value": "84",
+            "label": "Signups"
+          }
+        }
+      ]
+    }
+  },
+  "process": {
+    "header": {
+      "title": "3 Step Process",
+      "description": "We'll build out your company's AI system in 2 weeks and continually optimize it until it converts profitably.",
+      "additionalInfo": "Once it's optimized, you can choose to either maintain it yourself or let us scale it for you on a month-to-month basis."
+    },
+    "steps": [
+      {
+        "title": "CONNECT LEADS",
+        "description": "Upload a CSV or connect your inbound lead sources.",
+        "note": "If you don't have any, don't worry - we can help with that.",
+        "features": [
+          {
+            "title": "Inbound Leads",
+            "description": "Connect forms, paid ads, and organic traffic directly with your CRM.",
+            "events": [
+              "Form Submitted",
+              "Ad Clicked",
+              "Manu"
+            ]
+          },
+          {
+            "title": "Upload CSV's",
+            "description": "Start a new outbound campaign or reactivate all your old database leads."
+          },
+          {
+            "title": "Assign Live Transfers",
+            "description": "Let your team pick up where we left off with dynamic call routing.",
+            "notifications": [
+              "Hey Mike!",
+              "Welcome back!"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "CHOOSE AGENT",
+        "description": "Our AI Agents convert. For dirt cheap.",
+        "subtitle": "We rigorously test and improve your agents until it's a no-brainer profitable investment for your business.",
+        "features": [
+          {
+            "title": "Agents for Every Business Function",
+            "description": "Agents communicate with each other and route each call to the most relevant person or action.",
+            "action": "Nurture Leads"
+          },
+          {
+            "title": "Perform Actions Automatically",
+            "description": "Our agents can perform actions across 8,000+ apps and easily integrate into your existing tools."
+          }
+        ]
+      },
+      {
+        "title": "START CAMPAIGN",
+        "description": "Monitor real-time performance metrics and call recordings.",
+        "subtitle": "Easily edit campaigns and test different voices, scripts, and prompts.",
+        "features": [
+          {
+            "title": "Global Edge Network",
+            "description": "Deliver calls with minimal latency to your leads using their own local area code."
+          },
+          {
+            "title": "Scheduled Campaigns",
+            "description": "Make calls only on specific days and times.",
+            "badge": "Secure ✨"
+          },
+          {
+            "title": "Data Protection",
+            "description": "All data is encrypted on our cloud, or stored securly on your own servers."
+          }
+        ]
+      }
+    ],
+    "notifications": {
+      "title": "Real-Time Notifications",
+      "description": "Get instant notifications for when you need a human-in-the-loop.",
+      "events": [
+        {
+          "icon": "💬",
+          "type": "Support ticket",
+          "time": "5m ago",
+          "message": "Samantha B. is requesting a contract addendum",
+          "color": "#00C9A7"
+        },
+        {
+          "icon": "👤",
+          "type": "New inbound lead",
+          "time": "10m ago",
+          "message": "Steve M. filled out the Facebook Ad Form",
+          "color": "#FFB800"
+        },
+        {
+          "icon": "📅",
+          "type": "Meeting booked",
+          "time": "15m ago",
+          "message": "John D. just booked a call for April 17th at 3:00pm EST",
+          "color": "#FF3D71"
+        },
+        {
+          "icon": "📞",
+          "type": "Live transfer",
+          "time": "2m ago",
+          "message": "Mark S. was transferred to the sales team",
+          "color": "#1E86FF"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "header": {
+      "title": "Used by Entreprenurs",
+      "subtitle": "SalesBlaster AI is designed perfectly for small-to-medium sized businesses."
+    },
+    "featuredTestimonials": [
+      {
+        "name": "Danny Engels",
+        "quote": "SalesBlaster transformed our business. We were spending hours manually sourcing and qualifying leads. SalesBlaster has increased our number of leads so significantly that we are thinking about additional offerings to use it for. 10/10 would recommend to any business!",
+        "src": "/danny-engels.jpeg",
+        "designation": "CEO, Angular Trading"
+      },
+      {
+        "name": "Trent Ballard",
+        "quote": "With SalesBlaster we were able to double our call volume for a fraction of the cost. This has lead to an increase in leads, client growth and bigger margins. Voice AI is no longer the future, it is now... and only those that take advantage of it will see the benefits.",
+        "src": "/trent-ballard.jpeg",
+        "designation": "CEO, SigBall Dealings"
+      },
+      {
+        "name": "Patrick Aloisio",
+        "quote": "We white-labeled SalesBlaster for our marketing agency which allowed us to offer an entirely new marketing channel to all of our existing clients. Their team was super helpful and guided us along each step of the way. By far the best decision we've ever made for our business.",
+        "src": "/patrick-aloisio.jpeg",
+        "designation": "CMO, Automate Real Estate AI"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Get started today with SalesBlaster AI to kickstart your marketing efforts",
+    "description": "SalesBlaster AI is on a mission to make Voice AI more accessible to everyone. Talk to our team today to see if it's the right fit for you.",
+    "button": {
+      "text": "Demo",
+      "url": "https://cal.com/salesblaster/demo"
+    },
+    "macbookImage": "/dashboard.png"
+  },
+  "contactPage": {
+    "title": "Contact us",
+    "subtitle": {
+      "main": "Questions, comments, or feedback?",
+      "description": "Contact us and let us know how we can help you."
+    },
+    "contact": {
+      "sales": "sales@salesblaster.ai",
+      "support": "support@salesblaster.ai",
+      "phone": "+1 (703) 679 7985",
+      "recipientEmail": "max@strukter.io"
+    }
+  },
+  "featuredImages": [
+    {
+      "name": "Amy W.",
+      "designation": "Marketing Consultant",
+      "image": "https://i.pravatar.cc/150?img=27"
+    },
+    {
+      "name": "Patrick Aloisio",
+      "designation": "CMO, Automate Real Estate AI",
+      "image": "/patrick-aloisio.jpeg"
+    },
+    {
+      "name": "Frank M.",
+      "designation": "Digital Marketing Manager",
+      "image": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "name": "Trent Ballard",
+      "designation": "CEO, SigBall Dealings",
+      "image": "/trent-ballard.jpeg"
+    },
+    {
+      "name": "Natasha K.",
+      "designation": "Sales Performance Manager",
+      "image": "https://i.pravatar.cc/150?img=49"
+    },
+    {
+      "name": "Danny Engels",
+      "designation": "CEO, Angular Trading",
+      "image": "/danny-engels.jpeg"
+    }
+  ],
+  "faqs": [
+    {
+      "id": 2,
+      "title": "How does SalesBlaster AI work?",
+      "description": "SalesBlaster AI uses advanced AI agents to automate your sales channels. These agents can call, text, and nurture leads, handle inbound calls, and book sales calls directly within your CRM."
+    },
+    {
+      "id": 11,
+      "title": "Is this a SaaS or a done-for-you Marketing Service?",
+      "description": "We are a done-for-you marketing service. We've built our own proprietary marketing automation platform which you'll also have access to as one of our clients."
+    },
+    {
+      "id": 12,
+      "title": "What's the minimum contract term?",
+      "description": "There's no minimum contract term, you can cancel anytime. Once we setup your automation system, you can choose to have us monitor your campaigns for you on a monthly basis or you can take over and manage them yourself."
+    },
+    {
+      "id": 3,
+      "title": "What kind of businesses can benefit from SalesBlaster AI?",
+      "description": "SalesBlaster AI is designed for entrepreneurs, business owners, and marketing agencies looking to automate and scale their sales processes."
+    },
+    {
+      "id": 4,
+      "title": "Can I integrate SalesBlaster AI with my existing tools?",
+      "description": "Yes, SalesBlaster AI integrates with over 8,000 apps, allowing our AI agents to perform actions across your existing tools and CRM systems."
+    },
+    {
+      "id": 5,
+      "title": "Does SalesBlaster AI provide analytics?",
+      "description": "Absolutely. SalesBlaster AI offers advanced analytics through a custom client portal, allowing you to monitor your campaigns in real-time."
+    },
+    {
+      "id": 6,
+      "title": "How long does it take to set up SalesBlaster AI?",
+      "description": "We typically build out your AI automation system in about 2 weeks. After that, you get continued access to our proprietary software, free of charge."
+    },
+    {
+      "id": 7,
+      "title": "Can I use my own voice for the AI agents?",
+      "description": "Yes, we can clone your voice for use with our AI agents, providing a personalized touch to your automated calls."
+    },
+    {
+      "id": 8,
+      "title": "How does SalesBlaster AI handle lead sources?",
+      "description": "SalesBlaster AI can connect with various lead sources, including CSV uploads, lead forms, and database reactivation. You can drip in leads one at a time or process them all at once."
+    },
+    {
+      "id": 9,
+      "title": "Is there a trial available for SalesBlaster AI?",
+      "description": "We offer personalized demos to showcase how SalesBlaster AI can benefit your specific business. You can book a demo through our website."
+    },
+    {
+      "id": 10,
+      "title": "How secure is the data handled by SalesBlaster AI?",
+      "description": "We take data protection seriously. All data is encrypted and can be stored either on our secure cloud or on your own systems, depending on your preference."
+    }
+  ],
+  "extraTestimonials": [
+    {
+      "name": "Bob Lacker",
+      "quote": "SalesBlaster AI completely changed our marketing game. It made finding new customers easier and turned more of them into actual buyers.",
+      "src": "https://i.pravatar.cc/150?img=4",
+      "designation": "Marketing Director"
+    },
+    {
+      "name": "Cathy Lee",
+      "quote": "These guys made our marketing so much better. We're now reaching more people and talking to customers in a way that really connects.",
+      "src": "https://i.pravatar.cc/150?img=5",
+      "designation": "Sales Manager"
+    },
+    {
+      "name": "David Wright",
+      "quote": "SalesBlaster is like having a secret weapon for marketing. It lets us talk to each customer in a personal way, even when we're reaching out to thousands.",
+      "src": "https://i.pravatar.cc/150?img=6",
+      "designation": "Chief Marketing Officer"
+    },
+    {
+      "name": "Eva Green",
+      "quote": "SalesBlaster AI is incredibly efficient. It's helped us spend less on marketing while getting better results with potential customers.",
+      "src": "https://i.pravatar.cc/150?img=7",
+      "designation": "Sales Operations Director"
+    },
+    {
+      "name": "Frank Moore",
+      "quote": "SalesBlaster AI fits right into how we do marketing. It's made our team better and lets us handle bigger, more complex projects.",
+      "src": "https://i.pravatar.cc/150?img=8",
+      "designation": "Digital Marketing Manager"
+    },
+    {
+      "name": "Grace Hall",
+      "quote": "Their software is super easy to use. Even team members who aren't tech-savvy can use it to improve how they reach out to customers.",
+      "src": "https://i.pravatar.cc/150?img=9",
+      "designation": "Customer Success Manager"
+    },
+    {
+      "name": "Henry Ford",
+      "quote": "SalesBlaster AI has saved us so much time in finding new customers and following up with them. It's a must-have for anyone who wants to make their marketing more effective.",
+      "src": "https://i.pravatar.cc/150?img=10",
+      "designation": "Business Development Manager"
+    },
+    {
+      "name": "Ivy Wilson",
+      "quote": "Having a tool like SalesBlaster is crucial for any marketer these days. It's completely changed how we reach out to potential customers and keep them interested.",
+      "src": "https://i.pravatar.cc/150?img=11",
+      "designation": "Marketing Consultant"
+    },
+    {
+      "name": "Jack Gallagher",
+      "quote": "The results we get with SalesBlaster are amazing. It's helped us sell more than we ever expected, month after month.",
+      "src": "https://i.pravatar.cc/150?img=12",
+      "designation": "Sales Performance Manager"
+    },
+    {
+      "name": "Kathy Adams",
+      "quote": "SalesBlaster AI does things we once thought were impossible in marketing. It's opened up new ways for us to connect with customers.",
+      "src": "https://i.pravatar.cc/150?img=13",
+      "designation": "Marketing Innovation Lead"
+    },
+    {
+      "name": "Leo Carter",
+      "quote": "SalesBlaster AI is a real game-changer. It's made our marketing smoother and way more effective at turning leads into customers.",
+      "src": "https://i.pravatar.cc/150?img=14",
+      "designation": "Marketing Technology Strategist"
+    },
+    {
+      "name": "Mia Turner",
+      "quote": "SalesBlaster has been a huge boost for our marketing. The way it works with our existing customer database is amazing.",
+      "src": "https://i.pravatar.cc/150?img=15",
+      "designation": "CRM Specialist"
+    },
+    {
+      "name": "Nathan Hill",
+      "quote": "SalesBlaster AI is the best money we've spent on marketing in years. It's taken our sales and marketing results to a whole new level.",
+      "src": "https://i.pravatar.cc/150?img=17",
+      "designation": "ROI Analyst"
+    },
+    {
+      "name": "Olivia Scott",
+      "quote": "SalesBlaster AI always impresses us with how well it finds the right potential customers. It's become a crucial part of our daily marketing work.",
+      "src": "https://i.pravatar.cc/150?img=16",
+      "designation": "Marketing Quality Assurance Manager"
+    },
+    {
+      "name": "Peter White",
+      "quote": "SalesBlaster AI fits perfectly into our everyday marketing tasks. It's freed us up to focus on bigger plans for getting new customers.",
+      "src": "https://i.pravatar.cc/150?img=18",
+      "designation": "Marketing Strategic Planner"
+    },
+    {
+      "name": "Quinn Taylor",
+      "quote": "SalesBlaster AI has changed everything for our business. The insights it gives us about potential customers have helped us grow our customer base big time.",
+      "src": "https://i.pravatar.cc/150?img=19",
+      "designation": "Customer Acquisition Manager"
+    },
+    {
+      "name": "Rachel Black",
+      "quote": "The SalesBlaster support team is just as impressive as their tech. They make sure we get the most out of the AI in our marketing and sales work.",
+      "src": "https://i.pravatar.cc/150?img=20",
+      "designation": "Marketing Support Coordinator"
+    },
+    {
+      "name": "Samuel Lee",
+      "quote": "This is what marketing will look like in the future, but we can use it now. It's put us way ahead of other companies in finding new customers efficiently.",
+      "src": "https://i.pravatar.cc/150?img=21",
+      "designation": "Marketing Futurist"
+    },
+    {
+      "name": "Tina Brooks",
+      "quote": "SalesBlaster AI has totally changed how we do marketing. It's amazing at understanding customer data and making our outreach better.",
+      "src": "https://i.pravatar.cc/150?img=22",
+      "designation": "Marketing Process Analyst"
+    }
+  ]
+}
